@@ -1,13 +1,13 @@
 {
-  "name": "github-fetcher-fullstack-v2",
-  "version": "1.0.0",
+  "name": "hike roulette",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "react-dev": "webpack -d --watch",
     "server-dev": "nodemon server/index.js"
   },
-  "author": "Beth Johnson",
+  "author": "Jane Weesner",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.23.1",
